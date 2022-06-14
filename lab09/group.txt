@@ -1,0 +1,8 @@
+Tue May 17 09:58:21 KST 2022
+/mnt/c/Users/user/Desktop/OSSW/week_9
+group.txt
+list.txt
+newalarm
+newalarm.c
+wait
+wait.c
